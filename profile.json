@@ -1,0 +1,12 @@
+[
+	{
+		"name": "geosite.dat",
+		"mode": "allowlist",
+		"lists": [
+			"category-ru",
+			"youtube",
+			"google-gemini",
+			"openai"
+		]
+	}
+]
